@@ -1,3 +1,5 @@
+#Jonah Hood Blaxill wrote 90% of this code
+
 import numpy as np
 from numpy.linalg import *
 
